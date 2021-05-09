@@ -5,9 +5,8 @@ first trial
 somthing ...
 
 .png sample
-image::GSW-20210424-034410.png[]
+image::sample.png[]
 
 .svg sample
 image::bath.svg[]
-
 
