@@ -1,3 +1,5 @@
+:imagesdir: images
+
 = hello-world
 first trial
 somthing ...
