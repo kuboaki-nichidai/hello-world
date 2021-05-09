@@ -3,7 +3,7 @@ first trial
 somthing ...
 
 .png sample
-image::sample.png[]
+image::GSW-20210424-034410.png[]
 
 .svg sample
 image::sample.svg[]
