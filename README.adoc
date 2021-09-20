@@ -10,3 +10,6 @@ image::sample.png[]
 .svg sample
 image::bath.svg[]
 
+.result
+include::result[]
+
